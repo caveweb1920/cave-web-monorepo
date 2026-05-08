@@ -1,0 +1,11 @@
+{
+  "name": "@cave-web1920/config",
+  "version": "0.0.0",
+  "private": true,
+  "files": [
+    "eslint-preset.js",
+    "tsconfig/base.json",
+    "tsconfig/nextjs.json",
+    "tsconfig/react-library.json"
+  ]
+}
